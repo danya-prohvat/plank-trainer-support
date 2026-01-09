@@ -12,52 +12,101 @@
             padding: 20px;
             line-height: 1.6;
             color: #333;
+            background: #f9f9f9;
         }
-        h1 { color: #ff6b35; }
-        h2 { color: #444; margin-top: 30px; }
-        .contact { background: #f5f5f5; padding: 20px; border-radius: 8px; }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 { 
+            color: #ff6b35;
+            border-bottom: 3px solid #ff6b35;
+            padding-bottom: 10px;
+        }
+        h2 { 
+            color: #444; 
+            margin-top: 30px; 
+        }
+        h3 {
+            color: #666;
+            margin-top: 20px;
+        }
+        .contact { 
+            background: #fff5f2;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #ff6b35;
+            margin: 20px 0;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        a {
+            color: #ff6b35;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
-    <h1>Plank Trainer - Support</h1>
-    
-    <h2>Contact Us</h2>
-    <div class="contact">
-        <p><strong>Email:</strong> support@yourmail.com</p>
-        <p>We typically respond within 24-48 hours.</p>
-    </div>
-    
-    <h2>Frequently Asked Questions</h2>
-    
-    <h3>How do I start a workout?</h3>
-    <p>Open the app, select a program from the home screen, and tap the "Start" button to begin your training session.</p>
-    
-    <h3>Can I create my own custom program?</h3>
-    <p>Yes! Go to the Programs tab and tap "Program Builder" to create your personalized workout routine.</p>
-    
-    <h3>How do I track my progress?</h3>
-    <p>Your workout history is automatically saved. Visit the History tab to see all your completed sessions.</p>
-    
-    <h3>The app isn't working properly</h3>
-    <p>Try these steps:
+    <div class="container">
+        <h1>🏋️ Plank Trainer - Support</h1>
+        
+        <h2>📧 Contact Us</h2>
+        <div class="contact">
+            <p><strong>Email:</strong> prestig.rd85@gmail.com</p>
+            <p>We typically respond within 24-48 hours.</p>
+        </div>
+        
+        <h2>❓ Frequently Asked Questions</h2>
+        
+        <h3>How do I start a workout?</h3>
+        <p>Open the app, select a program from the home screen, and tap the "Start" button to begin your training session.</p>
+        
+        <h3>Can I create my own custom program?</h3>
+        <p>Yes! Go to the Programs tab and tap "Program Builder" to create your personalized workout routine.</p>
+        
+        <h3>How do I track my progress?</h3>
+        <p>Your workout history is automatically saved. Visit the History tab to see all your completed sessions.</p>
+        
+        <h3>Can I change the exercise duration?</h3>
+        <p>Yes! In the Program Builder, you can adjust the duration for each exercise from 1 second to 20 minutes.</p>
+        
+        <h3>The app isn't working properly</h3>
+        <p>Try these steps:</p>
         <ul>
             <li>Force close the app and reopen it</li>
             <li>Restart your device</li>
             <li>Make sure you have the latest version from the App Store</li>
+            <li>Check if your iOS version is up to date</li>
         </ul>
-    </p>
-    
-    <h2>Feature Requests</h2>
-    <p>We love hearing your ideas! Email us at support@yourmail.com with your suggestions.</p>
-    
-    <h2>Report a Bug</h2>
-    <p>If you encounter any issues, please email us with:
+        
+        <h2>💡 Feature Requests</h2>
+        <p>We love hearing your ideas! Email us at <strong>danya.prohvat@gmail.com</strong> with your suggestions for new features or improvements.</p>
+        
+        <h2>🐛 Report a Bug</h2>
+        <p>If you encounter any issues, please email us with:</p>
         <ul>
-            <li>Your device model</li>
-            <li>iOS version</li>
-            <li>Description of the problem</li>
+            <li>Your device model (e.g., iPhone 14 Pro)</li>
+            <li>iOS version (e.g., iOS 17.2)</li>
+            <li>App version</li>
+            <li>Detailed description of the problem</li>
             <li>Screenshots if possible</li>
         </ul>
-    </p>
+        
+        <h2>📱 App Information</h2>
+        <p><strong>Version:</strong> 1.0</p>
+        <p><strong>Compatibility:</strong> iOS 15.0 or later</p>
+        
+        <hr style="margin: 40px 0; border: none; border-top: 1px solid #ddd;">
+        
+        <p style="text-align: center; color: #999; font-size: 14px;">
+            © 2026 Daniil Prokhvatilov. All rights reserved.
+        </p>
+    </div>
 </body>
 </html>
