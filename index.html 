@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plank Trainer - Support</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #ff6b35; }
+        h2 { color: #444; margin-top: 30px; }
+        .contact { background: #f5f5f5; padding: 20px; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <h1>Plank Trainer - Support</h1>
+    
+    <h2>Contact Us</h2>
+    <div class="contact">
+        <p><strong>Email:</strong> support@yourmail.com</p>
+        <p>We typically respond within 24-48 hours.</p>
+    </div>
+    
+    <h2>Frequently Asked Questions</h2>
+    
+    <h3>How do I start a workout?</h3>
+    <p>Open the app, select a program from the home screen, and tap the "Start" button to begin your training session.</p>
+    
+    <h3>Can I create my own custom program?</h3>
+    <p>Yes! Go to the Programs tab and tap "Program Builder" to create your personalized workout routine.</p>
+    
+    <h3>How do I track my progress?</h3>
+    <p>Your workout history is automatically saved. Visit the History tab to see all your completed sessions.</p>
+    
+    <h3>The app isn't working properly</h3>
+    <p>Try these steps:
+        <ul>
+            <li>Force close the app and reopen it</li>
+            <li>Restart your device</li>
+            <li>Make sure you have the latest version from the App Store</li>
+        </ul>
+    </p>
+    
+    <h2>Feature Requests</h2>
+    <p>We love hearing your ideas! Email us at support@yourmail.com with your suggestions.</p>
+    
+    <h2>Report a Bug</h2>
+    <p>If you encounter any issues, please email us with:
+        <ul>
+            <li>Your device model</li>
+            <li>iOS version</li>
+            <li>Description of the problem</li>
+            <li>Screenshots if possible</li>
+        </ul>
+    </p>
+</body>
+</html>
